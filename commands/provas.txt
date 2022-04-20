@@ -1,0 +1,33 @@
+*[PROVAS]*
+
+*ABRIL:*
+(11/04) *CALC. 2* - av1
+(13/04) *LÓGICA APL. PROG* - av1
+(19/04) *MECÂN.* - av1
+(27/04) *DISaaCRETA* - av1
+(28/04) *PROBABILIDADE EST.* - av1
+
+*MAIO:*
+(04/05) *ÁLGEBRA* - av1
+(10/05) *ANÁLISE EST. DE DADOS* - av1
+(16/05) *CALC. 2* - av2
+(19/05) *MECÂN.* - av2
+(25/05) *LÓGICA APL. PROG.* - av2
+
+*JUNHO:*
+(01/06) *DISCRETA* - av2
+(20/06) *LÓGICA APL. PROG.* - av3
+(21/06) *ANÁLISE EST. DE DADOS* - av2
+(29/06) *ÁLGEBRA* - avaliação 2
+
+*JULHO:*
+(06/07) *DISCRETA* - av3
+(06/07) *CALC. 2* - av3
+(06/07) *LÓGICA APL. PROG.* - avf
+(07/07) *MECÂN.* - av3
+(07/07) *ANÁLISE EST. DE DADOS* - apresentar projetos
+(07/07) *PROBABILIDADE EST.* - av2
+
+```Atualizado: 06/04/2022 - 21:16```
+
+```OBS. Sem Obs.```
